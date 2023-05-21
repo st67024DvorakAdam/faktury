@@ -1,0 +1,10 @@
+﻿  faktury.c
+G:\Můj disk\upce\2. ročník\LS\céčko\zkouskaZkousky2.1\zkouskaZkousky2\faktury.c(50,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Můj disk\upce\2. ročník\LS\céčko\zkouskaZkousky2.1\zkouskaZkousky2\faktury.c(77,17): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Můj disk\upce\2. ročník\LS\céčko\zkouskaZkousky2.1\zkouskaZkousky2\faktury.c(78,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Můj disk\upce\2. ročník\LS\céčko\zkouskaZkousky2.1\zkouskaZkousky2\faktury.c(80,11): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Můj disk\upce\2. ročník\LS\céčko\zkouskaZkousky2.1\zkouskaZkousky2\faktury.c(81,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Můj disk\upce\2. ročník\LS\céčko\zkouskaZkousky2.1\zkouskaZkousky2\faktury.c(83,11): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Můj disk\upce\2. ročník\LS\céčko\zkouskaZkousky2.1\zkouskaZkousky2\faktury.c(86,11): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+G:\Můj disk\upce\2. ročník\LS\céčko\zkouskaZkousky2.1\zkouskaZkousky2\faktury.c(47): warning C4715: dejMesic: ne všechny cesty k ovládacím prvkům vrací hodnotu
+  zkouskaZkousky2.vcxproj -> G:\Můj disk\upce\2. ročník\LS\céčko\zkouskaZkousky2.1\x64\Debug\zkouskaZkousky2.exe
